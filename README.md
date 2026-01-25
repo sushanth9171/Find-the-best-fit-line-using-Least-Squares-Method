@@ -23,13 +23,20 @@ Program to implement univariate Linear Regression to fit a straight line using l
 Developed by: G sushanth
 RegisterNumber: 25011663 
 */
-<img width="768" height="767" alt="Screenshot 2026-01-25 193731" src="https://github.com/user-attachments/assets/4aae1df4-3e26-414a-88c8-ff3aab362205" />
 
 ```
 
+<img width="768" height="767" alt="Screenshot 2026-01-25 193731" src="https://github.com/user-attachments/assets/cdf8cd27-6c3b-408a-b3c4-68a78eed8327" />
+
+<img width="776" height="78" alt="Screenshot 2026-01-25 194900" src="https://github.com/user-attachments/assets/95fb0b88-dfd3-4ae0-aaab-37322d1453c4" />
+
+
+
 ## Output:
 ![best fit line](sam.png)
-<img width="779" height="571" alt="Screenshot 2026-01-25 194550" src="https://github.com/user-attachments/assets/5dc9e970-4bac-46d6-9ade-761009a0b6a8" />
+
+<img width="689" height="467" alt="Screenshot 2026-01-25 195040" src="https://github.com/user-attachments/assets/33263158-4d60-4a53-9e09-a9d64e6569f7" />
+
 
 
 
