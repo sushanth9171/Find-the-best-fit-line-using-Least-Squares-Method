@@ -52,9 +52,9 @@ for i in range(len(x)):
 
 ## Output:
 ![best fit line](sam.png)
-
+```
 <img width="689" height="467" alt="Screenshot 2026-01-25 195040" src="https://github.com/user-attachments/assets/33263158-4d60-4a53-9e09-a9d64e6569f7" />
-
+```
 
 
 
