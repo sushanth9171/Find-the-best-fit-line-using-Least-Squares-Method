@@ -46,10 +46,10 @@ plt.show()
 
 ## Output:
  
-```  
+
 <img width="456" height="395" alt="564787327-ac9cdd6b-0d6e-4493-8b0b-9989275b785c" src="https://github.com/user-attachments/assets/3ec77a70-3d25-4eba-9c0b-02325947efba" />
 
-```
+
 
 
 
